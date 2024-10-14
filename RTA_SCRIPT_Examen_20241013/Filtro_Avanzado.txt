@@ -1,0 +1,4 @@
+Mi IP Publica es: 186.13.112.25
+Mi usuario es: root
+El Hash de mi Usuario es: $6$Nkli1fwYPgCef8wD$dVnL1oQWO9.Bt4omUTVJ9ffxo5kTrT9H1ueRynlOfVGSwz0ZUU8GLUwCRcxTq.OaLZoAOsz0mSb1fNIu7L6xb/
+La URL de mi repositorio es: git@github.com:TomasGLZ/UTNFRA_SO_1P2C_2024_Gonzalez.git
